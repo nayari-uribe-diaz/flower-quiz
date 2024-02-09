@@ -1,3 +1,29 @@
 body{
-	background-color: blue;
+	background-color: lightgreen;
+}
+
+
+p {
+	font-size: 19px;
+
+}
+
+#vanish1{
+	display: none;
+}
+
+#vanish2{
+	display: none;
+}
+
+#vanish3{
+	display: none;
+}
+
+#vanish4{
+	display: none;
+}
+
+#vanish5{
+	display: none;
 }

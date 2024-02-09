@@ -1,8 +1,33 @@
 $(document).ready(function(){
 
-<head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-</head>
-
+	$("#p1").click(function() {
+		
+		$("#vanish1").toggle();
+		
+	});
+	
+	$("#p1").click(function() {
+		
+		$("#vanish1").toggle();
+		
+	});
+	
+	$("#p1").click(function() {
+		
+		$("#vanish1").toggle();
+		
+	});
+	
+	$("#p4").click(function() {
+		
+		$("#vanish4").toggle();
+		
+	});
+	
+	$("#p5").click(function() {
+		
+		$("#vanish5").toggle();
+		
+	});
   
 });
