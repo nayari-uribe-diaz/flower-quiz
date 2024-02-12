@@ -6,15 +6,15 @@ $(document).ready(function(){
 		
 	});
 	
-	$("#p1").click(function() {
+	$("#p2").click(function() {
 		
-		$("#vanish1").toggle();
+		$("#vanish2").toggle();
 		
 	});
 	
-	$("#p1").click(function() {
+	$("#p3").click(function() {
 		
-		$("#vanish1").toggle();
+		$("#vanish3").toggle();
 		
 	});
 	
