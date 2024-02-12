@@ -10,10 +10,34 @@ h3{
 	text-align: center;
 }
 
-p {
+p{
 	font-size: 19px;
 	text-align: center;
+}
 
+#p1{
+	border: 3px solid snow;
+	border-radius: 200px;
+}
+
+#p2{
+	border: 3px solid snow;
+	border-radius: 200px;
+}
+
+#p3{
+	border: 3px solid snow;
+	border-radius: 200px;
+}
+
+#p4{
+	border: 3px solid snow;
+	border-radius: 200px;
+}
+
+#p5{
+	border: 3px solid snow;
+	border-radius: 200px;
 }
 
 #vanish1{
