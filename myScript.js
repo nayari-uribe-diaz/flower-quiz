@@ -30,4 +30,10 @@ $(document).ready(function(){
 		
 	});
   
+   $("#p6").click(function() {
+		
+		$("#vanish6").toggle();
+		
+	});
+  
 });
